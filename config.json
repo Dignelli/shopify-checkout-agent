@@ -1,0 +1,16 @@
+{
+    "environment": {
+        "headless": true,
+        "debug": false
+    },
+    "agent": {
+        "learning_rate": 1e-4,
+        "gamma": 0.99,
+        "epsilon_start": 1.0,
+        "epsilon_end": 0.05,
+        "epsilon_decay": 0.997,
+        "memory_size": 50000,
+        "batch_size": 32,
+        "hidden_dim": 256
+    }
+} 

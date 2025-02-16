@@ -1,0 +1,26 @@
+# Deep Learning
+torch>=2.0.0
+
+# Web Automation
+pyppeteer>=1.0.2
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# HTTP Requests
+requests>=2.28.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Reinforcement Learning
+gymnasium>=0.29.0
+
+# Visualization and Analysis
+matplotlib>=3.4.0
+tqdm>=4.65.0
+
+# Testing and Development (optional)
+pytest>=7.4.0
+black>=23.7.0 
